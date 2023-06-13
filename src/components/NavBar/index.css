@@ -1,0 +1,28 @@
+/* Write your code here. */
+.navbar-container {
+  background-color: #9796f0;
+  height: 15vh;
+  background-size: cover;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.emoji-heading {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.nav-left-container {
+  display: flex;
+}
+.nav-right-container {
+  display: flex;
+}
+.paragraph {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
